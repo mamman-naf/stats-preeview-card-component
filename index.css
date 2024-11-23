@@ -28,6 +28,9 @@ body{
 }
 img{
     width: 100%;
+    background-color: var(--softViolet-insight);
+    opacity: 0.75;
+    mix-blend-mode: multiply;
 }
 .txt{
     text-align: center;
